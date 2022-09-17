@@ -1,0 +1,13 @@
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\bin\Debug\BankApp_NicoloRossi.exe.config
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\bin\Debug\BankApp_NicoloRossi.exe
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\bin\Debug\BankApp_NicoloRossi.pdb
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.csproj.AssemblyReference.cache
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.Properties.Resources.resources
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.csproj.GenerateResource.cache
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.csproj.CoreCompileInputs.cache
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.exe
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.pdb
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.AccountPage.resources
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.LoginPage.resources
+C:\Users\nicos\source\repos\BankApp_NicoloRossi\obj\Debug\BankApp_NicoloRossi.SignInPage.resources
